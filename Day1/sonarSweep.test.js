@@ -13,6 +13,7 @@ describe('Day 1: Sonar Sweep', function () {
       console.log('Answer: ', sonarSweepPart1(input()));
     });
   });
+
   describe('Part 2', function () {
     it('should return the number of times the ocean depth increases', async function () {
       const input = [199, 200, 208, 210, 200, 207, 240, 269, 260, 263];
