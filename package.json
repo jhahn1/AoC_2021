@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "mocha ./Day5/*test.js"
+    "test": "mocha ./**/*test.js"
   },
   "repository": {
     "type": "git",

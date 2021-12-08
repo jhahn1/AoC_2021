@@ -1,6 +1,6 @@
+import assert from 'assert';
 import { sonarSweepPart1, sonarSweepPart2 } from './sonarSweep.js';
 import { input } from './input.js';
-import assert from 'assert';
 
 describe('Day 1: Sonar Sweep', function () {
   describe('Part 1', function () {
