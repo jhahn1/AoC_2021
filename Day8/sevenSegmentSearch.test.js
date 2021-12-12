@@ -15,7 +15,7 @@ describe('Day 8: Seven Segment Search', function () {
     });
   });
 
-  describe.only('Part 2', function () {
+  describe('Part 2', function () {
     it('should return the sum of all output values', async function () {
       assert.equal(sevenSegmentSearchPart2(testInputPart2), 5353);
     });
